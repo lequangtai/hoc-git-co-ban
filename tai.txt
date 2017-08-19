@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 le quang tai ngu thuy nam
+=======
+>>>>>>> parent of ce506d6... thay doi noi dung
